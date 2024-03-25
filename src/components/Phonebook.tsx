@@ -71,7 +71,7 @@ const App: React.FC = () => {
         '&:hover': {
             boxShadow: theme.shadows[1],
         },
-    }));
+    })); 
 
     return (
     <div className="app-container">
