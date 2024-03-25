@@ -4,6 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 This project is using material UI components.
 This project is using axios for handling HTTP endpoints between clients and the server.
+This project is using typescript.
 
 ## Available Scripts
 
